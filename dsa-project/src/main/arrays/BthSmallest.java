@@ -27,7 +27,7 @@ public class BthSmallest {
 
     // Example usage
     public static void main(String[] args) {
-        int[] A = {7, 2, 5, 3, 1};
+        int[] A = {7, 2, 5, 3, 1};cls
         int B = 3;
         System.out.println(bthSmallest(A, B)); // Output: 3
     }
